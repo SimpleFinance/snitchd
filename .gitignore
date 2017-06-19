@@ -1,0 +1,15 @@
+*.cmd
+*.o
+.vagrant
+modules.order
+.tmp_versions
+Module.symvers
+snitchd.mod.c
+*.ko
+/snitchd.c
+/snitchd.graphviz
+/snitchd.pdf
+/first_names.rl
+/last_names.rl
+/routing_numbers.rl
+/FedACHdir.txt
